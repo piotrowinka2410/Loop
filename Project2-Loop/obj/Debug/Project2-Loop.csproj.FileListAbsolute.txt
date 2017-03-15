@@ -1,0 +1,6 @@
+c:\users\sabina\documents\visual studio 2015\Projects\Project2-Loop\Project2-Loop\bin\Debug\Project2-Loop.exe.config
+c:\users\sabina\documents\visual studio 2015\Projects\Project2-Loop\Project2-Loop\bin\Debug\Project2-Loop.exe
+c:\users\sabina\documents\visual studio 2015\Projects\Project2-Loop\Project2-Loop\bin\Debug\Project2-Loop.pdb
+c:\users\sabina\documents\visual studio 2015\Projects\Project2-Loop\Project2-Loop\obj\Debug\Project2-Loop.csprojResolveAssemblyReference.cache
+c:\users\sabina\documents\visual studio 2015\Projects\Project2-Loop\Project2-Loop\obj\Debug\Project2-Loop.exe
+c:\users\sabina\documents\visual studio 2015\Projects\Project2-Loop\Project2-Loop\obj\Debug\Project2-Loop.pdb
